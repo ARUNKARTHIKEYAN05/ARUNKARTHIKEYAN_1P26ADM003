@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="parasakthiBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#102538" />
+      <stop offset="60%" stop-color="#1b3a57" />
+      <stop offset="100%" stop-color="#09141f" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="340" fill="url(#parasakthiBg)"/>
+  <!-- Courtroom Columns & Scale of Justice -->
+  <rect x="70" y="80" width="30" height="260" fill="#0d1b2a" stroke="#8da9c4" stroke-width="1.5"/>
+  <rect x="500" y="80" width="30" height="260" fill="#0d1b2a" stroke="#8da9c4" stroke-width="1.5"/>
+  <!-- Scale of Justice -->
+  <line x1="300" y1="90" x2="300" y2="230" stroke="#f4d06f" stroke-width="4"/>
+  <line x1="220" y1="120" x2="380" y2="120" stroke="#f4d06f" stroke-width="4"/>
+  <!-- Left Pan -->
+  <line x1="220" y1="120" x2="190" y2="180" stroke="#f4d06f" stroke-width="2"/>
+  <line x1="220" y1="120" x2="250" y2="180" stroke="#f4d06f" stroke-width="2"/>
+  <path d="M 175,180 Q 220,205 265,180 Z" fill="#f4d06f" opacity="0.8"/>
+  <!-- Right Pan -->
+  <line x1="380" y1="120" x2="350" y2="180" stroke="#f4d06f" stroke-width="2"/>
+  <line x1="380" y1="120" x2="410" y2="180" stroke="#f4d06f" stroke-width="2"/>
+  <path d="M 335,180 Q 380,205 425,180 Z" fill="#f4d06f" opacity="0.8"/>
+  <!-- Banner Plate -->
+  <rect x="90" y="24" width="420" height="48" rx="8" fill="#081018" fill-opacity="0.9" stroke="#8da9c4" stroke-width="2"/>
+  <text x="300" y="55" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#f4d06f" text-anchor="middle">PARASAKTHI (1952) &bull; COURTROOM REVOLUTION</text>
+  <text x="300" y="300" font-family="'Poppins', sans-serif" font-size="14" fill="#e0e8f0" text-anchor="middle">Sivaji Ganesan&rsquo;s Electrifying Debut &mdash; Scripted by Kalaignar M. Karunanidhi</text>
+</svg>

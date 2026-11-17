@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="sunsetBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#bf360c" />
+      <stop offset="45%" stop-color="#e65100" />
+      <stop offset="75%" stop-color="#ffb74d" />
+      <stop offset="100%" stop-color="#210a03" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="340" fill="url(#sunsetBg)"/>
+  <!-- Giant Golden Sun -->
+  <circle cx="300" cy="180" r="85" fill="#ffe082" opacity="0.8"/>
+  <!-- Train tracks & bridge silhouette -->
+  <rect x="0" y="270" width="600" height="70" fill="#140602"/>
+  <line x1="0" y1="270" x2="600" y2="270" stroke="#4e1b09" stroke-width="6"/>
+  <!-- Two Friend Silhouettes Standing (Surya & Devaraj) -->
+  <ellipse cx="270" cy="205" rx="14" ry="16" fill="#140602"/>
+  <polygon points="255,220 285,220 285,270 255,270" fill="#140602"/>
+  <ellipse cx="330" cy="205" rx="14" ry="16" fill="#140602"/>
+  <polygon points="315,220 345,220 345,270 315,270" fill="#140602"/>
+  <!-- Banner Plate -->
+  <rect x="90" y="24" width="420" height="48" rx="8" fill="#120502" fill-opacity="0.85" stroke="#ffe082" stroke-width="2"/>
+  <text x="300" y="55" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#ffe082" text-anchor="middle">THALAPATHI (1991) &bull; EPIC FRIENDSHIP</text>
+  <text x="300" y="320" font-family="'Poppins', sans-serif" font-size="13" fill="#ffccbc" text-anchor="middle">Directed by Mani Ratnam &bull; Starring Rajinikanth &amp; Mammootty &bull; Music by Ilaiyaraaja</text>
+</svg>

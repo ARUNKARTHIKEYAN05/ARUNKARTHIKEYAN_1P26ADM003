@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="anbeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3e2723" />
+      <stop offset="50%" stop-color="#5d4037" />
+      <stop offset="100%" stop-color="#1b0000" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="340" fill="url(#anbeBg)"/>
+  <!-- Street Theater, Red Rose & Compassion Heart -->
+  <path d="M 300,240 C 240,160 180,180 220,130 C 250,90 300,140 300,160 C 300,140 350,90 380,130 C 420,180 360,160 300,240 Z" fill="#d32f2f" stroke="#ffcdd2" stroke-width="2" opacity="0.8"/>
+  <!-- Train tracks & Rain drops -->
+  <line x1="50" y1="280" x2="550" y2="280" stroke="#8d6e63" stroke-width="4"/>
+  <line x1="50" y1="300" x2="550" y2="300" stroke="#8d6e63" stroke-width="4"/>
+  <!-- Banner Plate -->
+  <rect x="90" y="24" width="420" height="48" rx="8" fill="#1b0d0a" fill-opacity="0.9" stroke="#ffab91" stroke-width="2"/>
+  <text x="300" y="55" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#ffab91" text-anchor="middle">ANBE SIVAM (2003) &bull; LOVE IS GOD</text>
+  <text x="300" y="325" font-family="'Poppins', sans-serif" font-size="13" fill="#ffebee" text-anchor="middle">Kamal Haasan &amp; R. Madhavan &bull; Written by Kamal Haasan &bull; Directed by Sundar C</text>
+</svg>

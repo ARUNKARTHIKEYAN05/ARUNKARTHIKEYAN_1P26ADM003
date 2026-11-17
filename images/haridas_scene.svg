@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="haridasBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b1712" />
+      <stop offset="50%" stop-color="#5a241c" />
+      <stop offset="100%" stop-color="#240c09" />
+    </linearGradient>
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd54f" />
+      <stop offset="100%" stop-color="#ffb300" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="340" fill="url(#haridasBg)"/>
+  <!-- Classical Arch & Temple Pillars -->
+  <path d="M 60,340 L 60,120 Q 300,30 540,120 L 540,340" fill="none" stroke="#d4af37" stroke-width="4" opacity="0.6"/>
+  <rect x="50" y="110" width="20" height="230" fill="#200a07" stroke="#d4af37" stroke-width="2"/>
+  <rect x="530" y="110" width="20" height="230" fill="#200a07" stroke="#d4af37" stroke-width="2"/>
+  <!-- Veena / Carnatic Musical Instrument Motif -->
+  <circle cx="300" cy="180" r="50" fill="#140604" stroke="url(#goldGlow)" stroke-width="4"/>
+  <circle cx="300" cy="180" r="25" fill="#d4af37" opacity="0.3"/>
+  <line x1="220" y1="180" x2="380" y2="180" stroke="#ffd54f" stroke-width="3"/>
+  <line x1="240" y1="170" x2="360" y2="170" stroke="#ffd54f" stroke-width="1.5" opacity="0.7"/>
+  <line x1="240" y1="190" x2="360" y2="190" stroke="#ffd54f" stroke-width="1.5" opacity="0.7"/>
+  <!-- Decorative Header Banner -->
+  <rect x="90" y="24" width="420" height="48" rx="8" fill="#120504" fill-opacity="0.85" stroke="#d4af37" stroke-width="2"/>
+  <text x="300" y="55" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#ffd54f" text-anchor="middle">HARIDAS (1944) &bull; RECORD 3-DIWALI RUN</text>
+  <!-- Subtitle -->
+  <text x="300" y="300" font-family="'Poppins', sans-serif" font-size="14" fill="#ffecb3" text-anchor="middle">Starring M. K. Thyagaraja Bhagavathar &mdash; The First Mega-Blockbuster of South India</text>
+</svg>

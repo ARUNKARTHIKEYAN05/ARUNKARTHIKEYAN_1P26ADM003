@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="baashhaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d2329" />
+      <stop offset="50%" stop-color="#1b4952" />
+      <stop offset="100%" stop-color="#051014" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="340" fill="url(#baashhaBg)"/>
+  <!-- Auto-rickshaw & City Lights Graphic -->
+  <!-- Stylized Auto Silhouette -->
+  <polygon points="120,290 140,210 240,210 270,290" fill="#fbc02d" stroke="#000" stroke-width="3"/>
+  <circle cx="150" cy="290" r="22" fill="#212121" stroke="#fbc02d" stroke-width="3"/>
+  <circle cx="245" cy="290" r="22" fill="#212121" stroke="#fbc02d" stroke-width="3"/>
+  <rect x="155" y="220" width="40" height="30" fill="#37474f"/>
+  <!-- Don Shadow & Sunglasses Motif -->
+  <rect x="360" y="140" width="60" height="28" rx="8" fill="#111" stroke="#fbc02d" stroke-width="3"/>
+  <rect x="440" y="140" width="60" height="28" rx="8" fill="#111" stroke="#fbc02d" stroke-width="3"/>
+  <line x1="420" y1="154" x2="440" y2="154" stroke="#fbc02d" stroke-width="4"/>
+  <!-- Streetlamp Spotlight -->
+  <polygon points="430,70 300,340 560,340" fill="#fff9c4" opacity="0.12"/>
+  <!-- Banner Plate -->
+  <rect x="90" y="24" width="420" height="48" rx="8" fill="#061214" fill-opacity="0.9" stroke="#fbc02d" stroke-width="2"/>
+  <text x="300" y="55" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#fbc02d" text-anchor="middle">BAASHHA (1995) &bull; THE MASS BENCHMARK</text>
+  <text x="300" y="325" font-family="'Poppins', sans-serif" font-size="13" fill="#b2dfdb" text-anchor="middle">Superstar Rajinikanth &bull; Directed by Suresh Krissna &bull; Iconic Dialogue &amp; Swag</text>
+</svg>
